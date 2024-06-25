@@ -9,3 +9,13 @@
 # pattern matching
   Pattern recognition with matplotlib
   Thresholding with GaussianBlur filter
+
+# answer about some issues
+  Gaussian has advantages below.
+  Image denoising
+  Edge detection
+  Image smoothing  
+  Signal filtering
+  Noise reduction in audio signals
+  Deblurring images
+  Image sharpening
