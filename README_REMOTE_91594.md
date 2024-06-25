@@ -4,11 +4,4 @@
   Here, using GaussianBlur filter.
 
 # image processing
-<<<<<<< HEAD
   Thresholding with GaussianBlur filter
-
-# pattern matching
-  Pattern recognition with matplotlib
-=======
-  Thresholding with GaussianBlur filter
->>>>>>> main
