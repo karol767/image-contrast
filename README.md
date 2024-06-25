@@ -19,3 +19,6 @@
   Noise reduction in audio signals
   Deblurring images
   Image sharpening
+
+# future functions
+  video processing
