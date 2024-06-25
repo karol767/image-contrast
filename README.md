@@ -5,3 +5,6 @@
 
 # image processing
   Thresholding with GaussianBlur filter
+
+# pattern matching
+  Pattern recognition with matplotlib
